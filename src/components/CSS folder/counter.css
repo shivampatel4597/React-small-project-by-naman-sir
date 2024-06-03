@@ -1,0 +1,15 @@
+.count {
+ background: pink;
+
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh; /* Full viewport height */
+  }
+  .count button{
+    padding: 15px;
+    background-color: aqua;
+    cursor: pointer;
+  }
